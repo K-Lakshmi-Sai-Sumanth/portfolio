@@ -19,7 +19,7 @@ I’m especially driven by ownership and clarity. I like understanding why a fea
           />
         </div>
         <motion.div
-          initial={{ opacity: 0, y: 24 }}
+          initial={{ opacity: 0, y: 24 }}  
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.5 }}
