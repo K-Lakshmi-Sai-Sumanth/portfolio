@@ -81,6 +81,16 @@ export default function Hero() {
             >
               Let&apos;s collaborate
             </a>
+
+             <a
+              download={true}
+              href="/LakshmiSaiSumanthResume.pdf"
+              className="rounded-full border border-slate-500/70 px-6 py-2 text-sm font-medium text-slate-200 hover:border-brand-500 hover:text-brand-300 transition"
+            >
+              My Resume
+            </a>
+
+            
           </motion.div>
 
           <motion.div

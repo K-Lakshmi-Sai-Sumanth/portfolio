@@ -154,12 +154,12 @@ export default function Contact() {
                 >
                   LinkedIn
                 </a>
-                {/* <a
-                  href="#"
-                  className="rounded-full bg-slate-900/80 px-3 py-1 text-slate-200 hover:text-brand-300"
+                <a download={true}
+                  href="/LakshmiSaiSumanthResume.pdf"
+                  className="rounded-full w-full mt-2 block bg-slate-900/80 px-3 py-1 text-slate-200 hover:text-brand-300"
                 >
-                  GitHub
-                </a> */}
+                  Resume
+                </a>
                 <a
                   href="#"
                   className="rounded-full bg-slate-900/80 mt-2 px-3 py-1 block text-slate-200 hover:text-brand-300"
