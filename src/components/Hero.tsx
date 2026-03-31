@@ -33,14 +33,14 @@ export default function Hero() {
             variants={fadeUp}
             className="text-xs uppercase tracking-[0.25em] text-slate-300"
           >
-            MERN STACK DEVELOPER · 3+ YEARS
+            MERN STACK DEVELOPER · 3.4+ YEARS
           </motion.p>
 
           {/* ✅ Updated headline */}
           <motion.h1
             custom={1}
             variants={fadeUp}
-            className="text-4xl  font-semibold leading-tight sm:text-5xl lg:text-6xl"
+            className="text-5xl  font-semibold leading-tight sm:text-5xl lg:text-5xl"
           >
             Turning{" "}
             <span className="relative inline-block">
@@ -56,10 +56,11 @@ export default function Hero() {
             variants={fadeUp}
             className="text-sm sm:text-base text-slate-300"
           >
-            I&apos;m K. Lakshmi Sai Sumanth, a MERN stack engineer turning complex
-            product ideas into fast, maintainable applications using{" "}
+            I&apos;m K. Lakshmi Sai Sumanth, A React.js-focused Software Design Engineer with 3.4+ years of experience in building 
+scalable, high-performance web applications. Strong expertise in{" "}
             <span className="font-semibold text-brand-400">
-              React, Next.js, React Native, Node.js, Express & MongoDB
+              React.js, Next.js, 
+TypeScript, modern UI development, Node.js, Express.js & MongoDb
             </span>
             .
           </motion.p>
@@ -123,7 +124,7 @@ export default function Hero() {
               <span className="rounded-full bg-slate-800/80 px-3 py-1">
                 Currently: SDE - II
               </span>
-              <span>Vijayawada, India</span>
+              {/* <span>Vijayawada, India</span> */}
             </div>
 
             <div>
@@ -131,11 +132,14 @@ export default function Hero() {
                 Profile
               </p>
               <p className="mt-2 text-lg font-semibold text-slate-50">
-                MERN Stack Specialist
+                Software Design Engineer - II
               </p>
               <p className="text-xs text-slate-400">
-                Building dashboards, web applications, mobile apps, e-commerce
-                and SaaS products with clean, testable code.
+                 Experienced in 
+developing robust APIs, optimizing application performance, and creating seamless user 
+interfaces. Strong problem-solving skills with a focus on delivering high-quality, efficient 
+solutions in Agile environments. Passionate about staying updated with the latest 
+technologies and best practices.
               </p>
             </div>
 
@@ -145,14 +149,14 @@ export default function Hero() {
                   Experience
                 </p>
                 <p className="text-base font-semibold text-brand-300">
-                  3+ yrs
+                  3.4+ yrs
                 </p>
               </div>
               <div className="text-right">
                 <p className="text-[0.65rem] uppercase tracking-wide text-slate-500">
                   Core Stack
                 </p>
-                <p>React · Next.js · Node · MongoDB</p>
+                <p>React · Next.js · Node · MongoDB · Jest</p>
               </div>
             </div>
           </div>

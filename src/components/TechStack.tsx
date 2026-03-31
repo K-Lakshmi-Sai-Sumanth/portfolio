@@ -6,20 +6,28 @@ import { motion } from "framer-motion";
 const categories = [
   {
     label: "Frontend",
-    items: ["HTML", "CSS", "JavaScript", "React", "Next.js", "TypeScript", "Tailwind CSS", "Redux Toolkit", "Material UI"]
+    items: ["React.js", "Next.js", "TypeScript", "JavaScript", "HTML5", "CSS3"],
+  },
+  {
+    label: "State Management",
+    items: ["Redux Toolkit", "Context API", "Zustand"],
   },
   {
     label: "Backend",
-    items: ["Node.js", "Express.js", "REST APIs", "Authentication", "JWT"]
+    items: ["Node.js", "Express.js"],
   },
   {
-    label: "Database & Infra",
-    items: ["MongoDB", "Mongoose", "MERN deployments", "Vercel", "Netlify"]
+    label: "Database",
+    items: ["MongoDB", "Mongoose"],
+  },
+  {
+    label: "Testing",
+    items: ["Jest (Unit Testing)"],
   },
   {
     label: "Tools",
-    items: ["Git & GitHub", "Agile / Scrum", "Postman", "Azure CI/CD", "ESLint / Prettier"]
-  }
+    items: ["Webpack", "Babel", "Git", "Azure DevOps", "Postman", "CI/CD Pipelines"],
+  },
 ];
 
 export default function TechStack() {
@@ -30,9 +38,9 @@ export default function TechStack() {
     >
       <div className="mx-auto flex max-w-5xl flex-col gap-10">
         <SectionHeader
-          eyebrow="Tech"
-          title="My toolbox"
-          subtitle="What I use most of the time to take a feature from idea to production."
+          eyebrow="Skills"
+          title="Core skills & tools"
+          subtitle="Technologies I use to build scalable products from frontend to deployment."
         />
         <div className="grid gap-5 md:grid-cols-2">
           {categories.map((cat, idx) => (

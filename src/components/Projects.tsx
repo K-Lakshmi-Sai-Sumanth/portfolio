@@ -8,7 +8,7 @@ const projects = [
     name: "Reproductive Health Tracking Application",
     description:
       "Healthcare platform that allows patients to fill forms, track reproductive health metrics, and visualize their data using graphs and charts. Includes role-based access for doctors to manage patient profiles, monitor progress and generate comprehensive reports.",
-    tech: ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
+    tech: ["React", "Typescript", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Jest"],
     highlight: "Lead developer for a secure reproductive health tracking platform.",
     links: {
       live: "https://repli-dev.azurewebsites.net",
@@ -19,7 +19,7 @@ const projects = [
     name: "Cancer Tracking Application",
     description:
       "Cancer tracking system where patients can monitor health and treatment progress through interactive charts and clinical data views. Providers can access records, update treatment plans, manage patient profiles and bulk-import data via Excel for efficient onboarding.",
-    tech: ["React", "Node.js", "Express.js", "MongoDB"],
+    tech: ["React", "Typescript", "Node.js", "Express.js", "MongoDB", "Jest"],
     highlight: "Lead developer for a cancer treatment & monitoring platform.",
     links: {
       live: "https://paptrack-dev.azurewebsites.net",

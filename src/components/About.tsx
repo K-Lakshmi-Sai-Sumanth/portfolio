@@ -26,8 +26,8 @@ I’m especially driven by ownership and clarity. I like understanding why a fea
           className="flex-1 space-y-4 text-sm sm:text-base text-slate-300"
         >
           <p>
-            Over the past 3 years, I&apos;ve worked as a MERN stack developer,
-            building production-grade web apps including dashboards, web applications, Saas products, and internal tools. I frequently work across the stack from
+            Over the past 3.4+ years, I&apos;ve worked as a MERN stack developer,
+            building production-grade web apps including dashboards, web applications, SaaS products, and internal tools. I frequently work across the stack from
             designing MongoDB schemas and Express APIs to crafting pixel-perfect
             interfaces in React / Next.js.
           </p>
@@ -43,7 +43,7 @@ I’m especially driven by ownership and clarity. I like understanding why a fea
               <p className="text-[0.7rem] uppercase tracking-wide text-slate-400">
                 Years of experience
               </p>
-              <p className="mt-1 text-2xl font-semibold text-brand-300">3+</p>
+              <p className="mt-1 text-2xl font-semibold text-brand-300">3.4+</p>
             </div>
             <div className="glass rounded-2xl p-4">
               <p className="text-[0.7rem] uppercase tracking-wide text-slate-400">
@@ -56,7 +56,7 @@ I’m especially driven by ownership and clarity. I like understanding why a fea
                 Primary stack
               </p>
               <p className="mt-1 text-sm">
-                React, Next.js, Node.js, Express, MongoDB, React Native
+                React, Typescript, Next.js, Node.js, Express, MongoDB, React Native, Jest
               </p>
             </div>
             <div className="glass rounded-2xl p-4">

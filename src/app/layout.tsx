@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "LAKSHMI SAI Sumanth | MERN Stack Developer",
   description:
-    "Portfolio of K. Lakshmi Sai Sumanth, a MERN stack developer with 3+ years of experience in building scalable web applications.",
+    "Portfolio of K. Lakshmi Sai Sumanth, a MERN stack developer with 3.4+ years of experience in building scalable web applications.",
     icons: {
     icon: "/favicon.png",
   },

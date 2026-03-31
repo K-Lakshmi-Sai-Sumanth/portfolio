@@ -7,12 +7,14 @@ const experiences = [
   {
     company: "Phenome Cloud (formerly Pixentia)",
     role: "Software Design Engineer - II",
-    period: "Oct 2025 — Present",
+    period: "Oct 2025 — 2nd, Apr 2026",
     location: "Vijayawada, India",
     points: [
-      "Implemented performance optimization strategies including query tuning, caching, load balancing, pagination, and lazy loading to reduce response times and improve scalability.",
-      "Integrated CI/CD pipelines using GitHub / Azure DevOps to automate build, test, and deployment processes for faster, more reliable releases.",
-      "Led code reviews and mentored junior developers, ensuring adherence to best practices, design patterns, and maintainable coding standards."
+      "Designed and developed scalable, reusable UI components using React.js, Next.js, and TypeScript, improving development efficiency by 25%.",
+      "Implemented performance optimization strategies, including query tuning, caching, load balancing, pagination, and lazy loading to reduce response times and enhance application scalability",
+      "Collaborated with business analysts to gather and translate requirements into UI solutions. Ensured cross-browser compatibility and responsive design across multiple devices",
+      "Wrote unit tests using Jest, improving code reliability and reducing production bugs.",
+      "Conducted code reviews and mentored junior developers, ensuring adherence to best practices."
     ]
   },
   {
@@ -21,10 +23,10 @@ const experiences = [
     period: "Aug 2024 — Sep 2025",
     location: "Vijayawada, India",
     points: [
-      "Designed and developed scalable, high-performance web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).",
-      "Built RESTful APIs with Node.js and Express to handle complex business logic and server-side functionality.",
-      "Developed responsive, interactive front-end components in React.js, ensuring a smooth and user-friendly experience.",
-      "Managed database schemas and optimized MongoDB queries to handle large datasets efficiently."
+      "Designed and developed scalable, high-performance, responsive web applications using the MongoDB, Express.js, React.js, Node.js.",
+      "Built RESTful APIs with Node.js and Express to handle complex business logic and Integrated REST APIs with optimized frontend performance for faster load times.",
+      "Developed front-end components using React.js, ensuring a responsive, interactive, and user-friendly interface.",
+      "Managed database schemas and optimized queries for performance in MongoDB, handling large datasets effectively."
     ]
   },
   {
@@ -33,10 +35,10 @@ const experiences = [
     period: "Nov 2022 — Jul 2024",
     location: "Vijayawada, India",
     points: [
-      "Built and maintained websites and dashboards for clients using the MERN stack.",
-      "Implemented responsive design principles to ensure seamless behavior across devices and platforms.",
-      "Improved application performance by optimizing MongoDB queries, React rendering, and Node.js server-side logic.",
-      "Collaborated closely with UI/UX designers to maintain a consistent look and feel across products."
+      "Developed dashboards and web applications with a focus on responsive design.",
+      "Implemented responsive design principles to ensure the application worked seamlessly across devices and platforms. ",
+      "Improved application performance by optimizing MongoDB queries, React component rendering, and Node.js server-side logic.",
+      "Collaborated with UI/UX designers to ensure a consistent look and feel across platforms."
     ]
   },
   {
